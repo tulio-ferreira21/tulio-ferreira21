@@ -8,4 +8,3 @@
 ![TailwindCSS](https://img.shields.io/badge/TailwindCSS-0D1117?logo=tailwindcss\&logoColor=38B2AC)
 ![Node.js](https://img.shields.io/badge/Node.js-0D1117?logo=node.js\&logoColor=339933)
 ![PostgreSQL](https://img.shields.io/badge/PostgreSQL-0D1117?logo=postgresql\&logoColor=336791)
-![AWS](https://img.shields.io/badge/AWS-0D1117?logo=amazonaws\&logoColor=FF9900)
