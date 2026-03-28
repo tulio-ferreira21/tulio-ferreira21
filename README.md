@@ -1,16 +1,11 @@
-## Hi there 👋
-
-<!--
-**tulio-ferreira21/tulio-ferreira21** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
-
-Here are some ideas to get you started:
-
-- 🔭 I’m currently working on ...
-- 🌱 I’m currently learning ...
-- 👯 I’m looking to collaborate on ...
-- 🤔 I’m looking for help with ...
-- 💬 Ask me about ...
-- 📫 How to reach me: ...
-- 😄 Pronouns: ...
-- ⚡ Fun fact: ...
--->
+![HTML5](https://img.shields.io/badge/HTML5-0D1117?logo=html5\&logoColor=E34F26)
+![CSS3](https://img.shields.io/badge/CSS3-0D1117?logo=css3\&logoColor=1572B6)
+![JavaScript](https://img.shields.io/badge/JavaScript-0D1117?logo=javascript\&logoColor=F7DF1E)
+![TypeScript](https://img.shields.io/badge/TypeScript-0D1117?logo=typescript\&logoColor=3178C6)
+![React](https://img.shields.io/badge/React-0D1117?logo=react\&logoColor=61DAFB)
+![Bootstrap](https://img.shields.io/badge/Bootstrap-0D1117?logo=bootstrap\&logoColor=7952B3)
+![SASS](https://img.shields.io/badge/SASS-0D1117?logo=sass\&logoColor=CC6699)
+![TailwindCSS](https://img.shields.io/badge/TailwindCSS-0D1117?logo=tailwindcss\&logoColor=38B2AC)
+![Node.js](https://img.shields.io/badge/Node.js-0D1117?logo=node.js\&logoColor=339933)
+![PostgreSQL](https://img.shields.io/badge/PostgreSQL-0D1117?logo=postgresql\&logoColor=336791)
+![AWS](https://img.shields.io/badge/AWS-0D1117?logo=amazonaws\&logoColor=FF9900)
